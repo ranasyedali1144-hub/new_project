@@ -1,4 +1,4 @@
 # new_project
 This is my demo project 
 <br>
-Author - Rana Syed Ali
+Author - Rana Syed Ali (Software Engineer)
